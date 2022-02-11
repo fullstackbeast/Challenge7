@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge7", "Challenge7\Challenge7.csproj", "{C634AD5C-F0BF-43EC-A423-77B257B07CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "Permutation\Permutation.csproj", "{A6933040-3DE4-45E4-A0BB-753322E898F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C634AD5C-F0BF-43EC-A423-77B257B07CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C634AD5C-F0BF-43EC-A423-77B257B07CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C634AD5C-F0BF-43EC-A423-77B257B07CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C634AD5C-F0BF-43EC-A423-77B257B07CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6933040-3DE4-45E4-A0BB-753322E898F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6933040-3DE4-45E4-A0BB-753322E898F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6933040-3DE4-45E4-A0BB-753322E898F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6933040-3DE4-45E4-A0BB-753322E898F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
